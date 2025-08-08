@@ -1,9 +1,5 @@
 # 📖 Pokédex
 
-![Gameplay](./images/capa.gif)
-
----
-
 ## 📌 Sobre o Projeto
 Uma **Pokédex interativa** desenvolvida com **HTML, CSS e JavaScript**, que permite pesquisar Pokémon e visualizar suas informações, como nome, tipo e imagem oficial.  
 Inspirada no universo Pokémon.
